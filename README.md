@@ -2,15 +2,20 @@
 
 ![프로젝트 사진](https://github.com/user-attachments/assets/73dbf88e-7a4d-4485-a01b-fa4f0cbbe6b4)
 
-- 배포 레파지토리 : https://github.com/CuteSeeun/Web-TeamToast-Update
+- 배포 레파지토리 : 
+[https://github.com/ManDuGuk/final_be_aws(백엔드)](https://github.com/ManDuGuk/final_be_aws)
+[https://github.com/ManDuGuk/final_fe_vercel(프론트)](https://github.com/ManDuGuk/final_fe_vercel)
+
 
 
 
 ## 프로젝트 소개
-"누구나 쉽게 사용할 수 있는 업무 관리 협업 서비스"를 주제로 한 웹 기반 플랫폼입니다. 
+"구독형 인플루언서 소셜 플랫폼"를 주제로 한 웹 기반 플랫폼입니다. 
 
-팀 구성원들이 독립적인 협업 공간을 생성하여 팀 목표에 따라 스프린트와 이슈를 체계적으로 관리할 수 있는 서비스를 제공하고자 하였습니다. 
-또한, 검색, 드래그 앤 드롭, 차트 그래프를 통해 스프린트와 이슈를 검색/수정하며 직관적으로 확인할 수 있는 기능과 팀원 간 실시간 소통을 위한 채팅 기능을 구현하였습니다.
+누구나 소비자이자 생산자가 될 수 있는 공간을 제공합니다.
+일반 유저는 간단한 인플루언서 신청을 통해 인플루언서로 활동할 수 있으며,인플루언서는 자신의 상품이나 서비스를 구독형 상품으로 만들어
+이를 구독하는 유저들에게 독점적으로 제공할 수 있습니다.
+
 
 <details>
   <summary>
@@ -21,7 +26,7 @@
     TeamToast.mp4  :  이미지를 클릭해서 영상을 시청하세요 
   </summary>
 
-  [![유튜브 미리보기 이미지](https://img.youtube.com/vi/4sR4FVVXjDQ/0.jpg)](https://www.youtube.com/watch?v=4sR4FVVXjDQ)
+  [![유튜브 미리보기 이미지](https://img.youtube.com/vi/4sR4FVVXjDQ/0.jpg)](https://youtu.be/x802kp0CkQ8)
 </details>
 
 
