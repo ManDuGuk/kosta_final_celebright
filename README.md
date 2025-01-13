@@ -2,9 +2,10 @@
 
 ![프로젝트 사진](https://github.com/user-attachments/assets/73dbf88e-7a4d-4485-a01b-fa4f0cbbe6b4)
 
-- 배포 레파지토리 : 
-[https://github.com/ManDuGuk/final_be_aws(백엔드)](https://github.com/ManDuGuk/final_be_aws)
-[https://github.com/ManDuGuk/final_fe_vercel(프론트)](https://github.com/ManDuGuk/final_fe_vercel)
+- 배포 레파지토리 :  
+[https://github.com/ManDuGuk/final_be_aws(백엔드)](https://github.com/ManDuGuk/final_be_aws)  
+
+[https://github.com/ManDuGuk/final_fe_vercel(프론트)](https://github.com/ManDuGuk/final_fe_vercel)  
 
 
 
