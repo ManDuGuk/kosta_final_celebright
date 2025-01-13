@@ -38,25 +38,30 @@
 
 
 ## 팀원 소개
-- **[김정연](https://github.com/lakelover0611)** : 기획 담당  /  팀목록page, 결제/구독page
-- **[김현진](https://github.com/0515khj)** : 퍼블리싱 담당  /  인트로page, 로그인/회원가입page, 스페이스page, 프로필page
-- **[조하영](https://github.com/bigbro5232)** : ERD 담당  /  백로그page, 이슈 상세page
-- **[최세은](https://github.com/CuteSeeun)** : 퍼블리싱 담당  /  활성스프린트page, 대시보드page, 이슈목록page, 타임라인page, 채팅page
-- **[한채경](https://github.com/gch2505)** : 디자인 담당  /  프로젝트page, 이슈 생성 modal
+- **김준경** : 문서화,일정처리  /  마이페이지, 구독처리 작업
+- **구태현** : 프로젝트 세팅  /  피드관련 페이지, 배포 작업
+- **남윤호(본인)** : 기획,디자인  /  채팅, 공통 컴포넌트 작업
+- **조영우** : 주제선정 리서치  /  로그인, 홈 작업
+- **최규호** : 디비 설계  /  마이페이지, 구독처리, 관리자페이지 작업
+- **김상기** : 레퍼런스 조사 / 피드관련 페이지 작업
 
 페이지를 기준으로 프론트, 백엔드를 함께 구현하였습니다.
 
 
 ## 개발 환경
-- **Front-end** : React, TypeScript, Recoil, Styled-components
-- **Back-end** : Node.js, Express.js
-- **Database** : MySQL
+- **Front-end** : React, TypeScript, Mui, Zoostand, Antdesign
+- **Back-end** : Node.js, Express.js, Axios 
+- **Database** : MySQL, Sequelize
+- **기타**: Figma, Swagger
+- **배포**: AWS EC2, Vercel
+- **CI/CD**: Github action
 
 
 ## 데이터베이스 설계
 - **DB 엔진** : MySQL 8.0
 - **주요 테이블**
 <img src="https://github.com/CuteSeeun/Web-TeamToast/blob/main/table.png" alt="홈 화면 예시" width="900" />
+![erd](https://github.com/user-attachments/assets/26c0cf93-30e6-4264-b9ee-efe0097ba777)
 
 ## 페이지별 주요 기능
 - **로그인/회원가입** : coolSMS 사용해 인증코드 발송, JWT 토큰 사용
