@@ -60,8 +60,7 @@
 ## 데이터베이스 설계
 - **DB 엔진** : MySQL 8.0
 - **주요 테이블**
-<img src="https://github.com/CuteSeeun/Web-TeamToast/blob/main/table.png" alt="홈 화면 예시" width="900" />
-![erd](https://github.com/user-attachments/assets/26c0cf93-30e6-4264-b9ee-efe0097ba777)
+<img src="https://github.com/user-attachments/assets/26c0cf93-30e6-4264-b9ee-efe0097ba777" alt="홈 화면 예시" />
 
 ## 페이지별 주요 기능
 - **로그인/회원가입** : coolSMS 사용해 인증코드 발송, JWT 토큰 사용
