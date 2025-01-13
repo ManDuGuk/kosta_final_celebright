@@ -23,10 +23,10 @@
   <rect x="3" y="7" width="13" height="10" rx="2" ry="2"></rect>
   <polygon points="16 7 22 11 22 13 16 17 16 7"></polygon>
 </svg>
-    TeamToast.mp4  :  이미지를 클릭해서 영상을 시청하세요 
+    celebright  :  이미지를 클릭해서 영상을 시청하세요 
   </summary>
 
-  [![유튜브 미리보기 이미지](https://img.youtube.com/vi/4sR4FVVXjDQ/0.jpg)](https://youtu.be/x802kp0CkQ8)
+  [![유튜브 미리보기 이미지](https://img.youtube.com/vi/x802kp0CkQ8/0.jpg)](https://youtu.be/x802kp0CkQ8)
 </details>
 
 
