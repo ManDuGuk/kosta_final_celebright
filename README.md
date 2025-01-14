@@ -1,4 +1,4 @@
-## 업무관리 협업 툴 서비스
+## 구독형 인플루언서 소셜 플랫폼
 
 ![프로젝트 사진](https://github.com/user-attachments/assets/73dbf88e-7a4d-4485-a01b-fa4f0cbbe6b4)
 
