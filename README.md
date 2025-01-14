@@ -7,7 +7,7 @@
 [https://github.com/ManDuGuk/final_fe_vercel(프론트)](https://github.com/ManDuGuk/final_fe_vercel)
 
 - 프로젝트 상세설명 :
-[프로젝트 상세_노션 링크](https://instinctive-blackbird-a45.notion.site/celebright-17b138412e5880a39df0cf5fc0b36561?pvs=4)
+[노션 링크](https://instinctive-blackbird-a45.notion.site/celebright-17b138412e5880a39df0cf5fc0b36561?pvs=4)
 
 
 
